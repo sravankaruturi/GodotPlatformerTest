@@ -207,7 +207,8 @@ transform/pos = Vector2( 4172.75, 541.058 )
 
 [node name="moving_platform" parent="props" instance=ExtResource( 3 )]
 
-transform/pos = Vector2( 1451.86, 742.969 )
+transform/pos = Vector2( 1452.86, 742.969 )
+transform/scale = Vector2( 1, 2 )
 motion = Vector2( 0, 140 )
 cycle = 5.0
 
